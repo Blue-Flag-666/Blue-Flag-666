@@ -1,4 +1,11 @@
 ### Hi there 👋
+### I'm Blue-Flag!
+
+✉️ Mail: `Blue-Flag@b-f.fun`
+🌐 Website: https://b-f.fun (Currently nothing there)
+🖥 Windows 10/11 + VS/VS Code/Jetbrains
+⌨ C/C++/Lua, learning Java
+🎮 Play on Steam and Epic
 
 <!--
 **Blue-Flag-666/Blue-Flag-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
